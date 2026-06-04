@@ -1,18 +1,23 @@
-# flask-ecommerce-api# E-commerce API Project.
+# FakeStore App
 
- This is a basic E-commerce API created with Flask, SQLAlchemy, and Marshmallow.  It offers a basic setup for managing items, users, and orders, complete with CRUD functions and a MySQL database connection.
+## Overview
+This project is a React application that uses the FakeStore API to perform CRUD operations on products.
 
+## Features
+- View all products
+- View product details
+- Add a product
+- Edit a product
+- React Router navigation
+- Axios API requests
+- Bootstrap styling
 
- ---
+## Technologies Used
+- React
+- React Router
+- Axios
+- Bootstrap
+- FakeStore API
 
- ## Technology Stack
-
- Requirements: Python 3.11, Flask, Flask-SQLAlchemy, Flask-Marshmallow, MySQL, and Marshmallow.
-
- ---
-
- ## 🚀  How to Run.
-
- 1. Clone the repository or download the project.
- 2. Create a virtual environment and install dependencies:
- '''Bash: pip install -r requirements.txt
+## Author
+Jazmin Robinson
